@@ -7,6 +7,7 @@ broom 0.4.4.9000
 * Bump version number
 * Added `augment` method for chi-squared tests
 * Added tieders for ordinal models: `clm` and `clmm` (ordinal), `polr` (MASS), `svyolr` (survey)
+* Added tieders for `Kendall`, `MannKendall` and `SeasonalMannKendall` from the Kendall package (thanks to #285 from Jorge Cimentada)
 
 broom 0.4.4
 -----------
